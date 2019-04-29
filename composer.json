@@ -1,0 +1,22 @@
+{
+    "name": "vsoontech/php",
+    "description": "动态坑位",
+    "type": "library",
+    "license": "unlicense",
+    "authors": [
+        {
+            "name": "lifuzhi",
+            "email": "512116138@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.6.0",
+        "topthink/think": "5.1.31"
+    },
+    "autoload": {
+        "psr-4": {
+            "Vsoontech\\": "src/"
+        }
+    }
+}

@@ -12,7 +12,7 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=5.6.0",
-        "topthink/think": "5.1.31"
+        "topthink/think": ">=5.1.31"
     },
     "autoload": {
         "psr-4": {
